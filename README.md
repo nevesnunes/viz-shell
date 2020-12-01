@@ -1,6 +1,6 @@
 # viz-shell
 
-Notebook interface for interactive visualizations.
+Apply transformations to datasets by manipulating interactive visualizations, then export the results.
 
 Currently it's only a prototype for generating visualizations via HTTP requests.
 
